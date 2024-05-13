@@ -1,0 +1,3 @@
+C:/Users/ataky/development/CSC2430/Pointassignement/cmake-build-debug/CMakeFiles/Pointassignement.dir
+C:/Users/ataky/development/CSC2430/Pointassignement/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ataky/development/CSC2430/Pointassignement/cmake-build-debug/CMakeFiles/rebuild_cache.dir

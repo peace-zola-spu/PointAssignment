@@ -1,0 +1,5 @@
+# ninja log v5
+5	225	7372781593155273	build.ninja	3bc6efbad722ddd5
+0	735	7372781601662635	CMakeFiles/Pointassignement.dir/main.cpp.obj	6a91e324ad3b0e7b
+4	652	7372785119998426	CMakeFiles/Pointassignement.dir/main.cpp.obj	6a91e324ad3b0e7b
+653	768	7372785121115137	Pointassignement.exe	2e4a37d7bffd35c3
